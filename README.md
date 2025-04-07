@@ -1,4 +1,4 @@
-# 245 Project: Language-Model-as-a-Judge Analysis
+# NLP245 Project on Language-Model-as-a-Judge Analysis
 
 ## Overview
 
